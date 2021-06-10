@@ -1,1 +1,3 @@
-{}
+{
+  "todo": "Verwaltet für jeden Raum eine Todo-Liste. Nähere Infos erhälst du mit `!todo help`"
+}
