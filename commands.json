@@ -1,4 +1,7 @@
 {
   "todo": "Verwaltet für jeden Raum eine Todo-Liste. Nähere Infos erhälst du mit `!todo help`",
-  "updates": "Mit diesem Befehl kann man neue Streiks abonnieren. Für weitere Infos nutze `!updates`"
+  "updates": "Mit diesem Befehl kann man neue Streiks abonnieren. Für weitere Infos nutze `!updates`",
+  "poll": "Erstelle Umfragen, zeige deren Ergebnis an oder pinge alle Teilnehmer, die für eine bestimmte Option gestimmt haben. Nähere Informationen gibt es bei `!poll`.",
+  "vote": "Stimme bei einer Umfrage ab.",
+  "remind": "Erstelle einen Reminder. Nähere Infos gibt es bei `!remind`."
 }
