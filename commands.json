@@ -2,5 +2,6 @@
   "todo": "Verwaltet für jeden Raum eine Todo-Liste. Nähere Infos erhälst du mit `!todo help`",
   "poll": "Erstelle Umfragen, zeige deren Ergebnis an oder pinge alle Teilnehmer, die für eine bestimmte Option gestimmt haben. Nähere Informationen gibt es bei `!poll`.",
   "vote": "Stimme bei einer Umfrage ab.",
-  "remind": "Erstelle einen Reminder. Nähere Infos gibt es bei `!remind`."
+  "remind": "Erstelle einen Reminder. Nähere Infos gibt es bei `!remind`.",
+  "rss": "Abboniere RSS-Feeds in einem Channel."
 }
